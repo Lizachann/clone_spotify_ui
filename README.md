@@ -5,6 +5,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Contributors](#contributors)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -14,6 +15,13 @@
 ## Introduction
 
 Welcome to the Spotify Clone project! This mobile app replicates the core features of the Spotify app, allowing users to browse, search, and stream music. This project was developed as a final project for Mobile Development class at CADT.
+
+## Contributors
+
+- Chan Liza
+- John Liza
+- Tep SovannPanha
+- Chanrith Natvaddhtharo
 
 ## Features
 
